@@ -1,0 +1,5 @@
+[versions]
+googleServices = "4.4.4"
+
+[plugins]
+google-services = { id = "com.google.gms.google-services", version.ref = "googleServices" }

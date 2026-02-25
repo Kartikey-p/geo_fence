@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629232503842",
+    "project_id": "geo-fence-alert",
+    "storage_bucket": "geo-fence-alert.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629232503842:android:31b4407f545fa4ada0ce7b",
+        "android_client_info": {
+          "package_name": "com.geofence.geo_fence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGgkz1ErIzrf-GM-cxOKmkbd3kcD8UWLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
