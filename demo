@@ -1,0 +1,10 @@
+# Geo Fence
+
+This project is based on geofencing concepts.
+
+Features:
+- Location tracking
+- Boundary detection
+- Alerts when crossing limits
+
+Work in progress.
